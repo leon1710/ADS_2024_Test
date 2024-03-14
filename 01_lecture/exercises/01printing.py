@@ -8,6 +8,8 @@ Life is but a dream.
 """
 # Write your solution here
 
+print("do some exercises")
+
 """
 Print the multiplication of 2*2 using a combination of string and operation
 The program should print "the result = 4"
